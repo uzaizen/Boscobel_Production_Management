@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Boscobel_Production_Management" parent="Theme.AppCompat.NoActionBar">
+        <!-- Toolbarの背景色と一致させる -->
+        <item name="colorPrimary">@color/design_default_color_secondary_variant</item>
+        <item name="colorPrimaryDark">@color/design_default_color_secondary_variant</item>
+        <item name="windowActionBar">false</item> <!-- これを追加 -->
+    </style>
+</resources>

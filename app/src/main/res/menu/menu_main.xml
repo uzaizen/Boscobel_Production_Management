@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.boscobel_production_management.MainActivity">
+    <item
+        android:id="@+id/sort1_settings"
+        android:orderInCategory="100"
+        android:title="@string/sort1_string"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sort2_settings"
+        android:orderInCategory="100"
+        android:title="@string/sort2_string"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sort3_settings"
+        android:orderInCategory="100"
+        android:title="@string/sort3_string"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/sort4_settings"
+        android:orderInCategory="100"
+        android:title="@string/sort4_string"
+        app:showAsAction="never"/>
+
+
+</menu>
